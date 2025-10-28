@@ -1,1 +1,2 @@
 The new file is entered
+second line added
